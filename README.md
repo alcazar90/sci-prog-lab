@@ -1,6 +1,15 @@
 # Laboratorio de Programación Científica para Ciencia de Datos 🧪
 
 
+## Notas
+
+
+| Clase | Temas        		 |  Link a  notas       |
+| ----- | ---------------------- | -------------------  |
+|   3   | Programación Funcional |  [Link]()            |
+
+
+
 
 ## Integrantes
 
