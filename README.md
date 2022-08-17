@@ -6,7 +6,7 @@
 
 | Clase | Temas        		 |  Link a  notas       |
 | ----- | ---------------------- | -------------------  |
-|   3   | Programación Funcional |  [Link]()            |
+|   3   | Programación Funcional |  [Link](https://github.com/alcazar90/sci-prog-lab/tree/main/clases/03-programacion-funcional)            |
 
 
 

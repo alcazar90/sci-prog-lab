@@ -57,7 +57,7 @@ def operaciones(a, b):
     return a, b
 ```
 
-## Scoopes
+## _Scopes_
 
 Cada función define un entorno de variables o _namespace_. Son espacios
 reservados para cierto conjunto de operaciones.
