@@ -1,7 +1,7 @@
 # Laboratorio de Programación Científica para Ciencia de Datos 🧪
 
 
-## Notas
+## Notas 📚🖊️
 
 
 | Clase | Temas        		 |  Link a  notas       |
